@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "axios": "^1.7.2",
+    "sass": "^1.56.1",
+    "vite-plugin-vuetify": "^1.0.2",
+    "vuetify": "^3.0.1"
+  }
+}
