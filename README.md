@@ -14,4 +14,6 @@
 5. Clone esse repositório na sua máquina
 6. Copie os arquivos da pasta `/app` deste repositório para dentro do seu `/app`
 7. Procure por `// TODO:`
-8. Todos os locais onde possuem este TODO vc deve fazer o que é pedido
+8. Todos os locais onde possuem este TODO vc deve fazer o que é pedido, que no caso é conectar o backend nesse app, isso você já sabe fazer :D
+
+Bom divertimento, meu querido.
